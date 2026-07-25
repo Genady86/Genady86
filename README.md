@@ -147,7 +147,7 @@ Ein Lern- und Experimentierprojekt rund um KI-Agenten, deren Aufbau, Funktionswe
 - Automatisierung von Workflows
 - Moderne Python-Anwendungen
 
-**Technologien:** Python, KI-APIs, Automatisierung
+**Geplante beziehungsweise untersuchte Technologien:** Python, KI-APIs und Automatisierung
 
 **Status:** 🧪 Experimentalphase | 🔒 Privates Lernprojekt
 
@@ -171,7 +171,7 @@ Ein Lern- und Experimentierprojekt rund um KI-Agenten, deren Aufbau, Funktionswe
 
 Mein GitHub-Profil zeigt meinen kontinuierlichen Lernfortschritt. Die meisten Repositories sind aktuell privat, um hochwertige Lernprojekte ohne Druck zu entwickeln.
 
-Nach erfolgreichem Abschluss werde ich selektiv hochwertige Projekte veröffentlichen, um zukünftigen Arbeitgebern meine Fähigkeiten zu demonstrieren.
+Im Verlauf meiner Umschulung möchte ich ausgewählte Projekte nach einer Sicherheits- und Qualitätsprüfung veröffentlichen und nachvollziehbar dokumentieren.
 
 ---
 
@@ -204,8 +204,8 @@ Neben meiner Umschulung interessiere ich mich besonders für:
 
 - **GitHub:** [@Genady86](https://github.com/Genady86)
 - **E-Mail:** [heinrich.foerster@outlook.com](mailto:heinrich.foerster@outlook.com)
-- **LinkedIn:** wird später ergänzt
-- **Portfolio-Website:** befindet sich im Aufbau
+- **LinkedIn:** Wird später ergänzt
+- **Portfolio-Website:** Befindet sich im Aufbau
 
 ---
 
